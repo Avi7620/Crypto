@@ -1,5 +1,6 @@
 #Crpto_Currency_Calculator
 see bitcoin price in othere currencies Ex:-USD,EURO,INR. 
-![Screenshot 2024-08-11 194331](https://github.com/user-attachments/assets/74cca274-7d91-4a5e-a30d-8f954e7e4266) 
-![Screenshot 2024-08-11 194352](https://github.com/user-attachments/assets/b739a090-82fe-49a1-8ec1-1112ecc7b654) 
-![Screenshot 2024-08-11 194410](https://github.com/user-attachments/assets/7dc37641-1ad7-4e03-9aa4-b6d822c9da15)
+![Screenshot 2024-08-11 194331](https://github.com/user-attachments/assets/d79338dc-2309-4bda-b7bd-068cb9a30e02)
+![Screenshot 2024-08-11 194352](https://github.com/user-attachments/assets/59922662-f1f8-4a4a-a7b2-28eca2419305)
+![Screenshot 2024-08-11 194410](https://github.com/user-attachments/assets/3adc919a-7f4a-4361-8793-6e7ea7ef441e)
+
